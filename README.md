@@ -1,1 +1,1 @@
-# Pages site publishing template
+# Attempto Controlled English
