@@ -1,5 +1,5 @@
 
-- [[Conditional Sentences|Conditional Sentences (_if-then_ sentences)]]
+- [[Conditional Sentences]]
 - [[Logical Negation]]
 - [[Negation As Failure]]
 - [[Modality]]

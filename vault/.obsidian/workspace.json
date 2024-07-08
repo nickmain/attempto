@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentences.md",
+                "file": "Conditional Sentences.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentences.md",
+                "file": "Conditional Sentences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentences.md"
+                "file": "Conditional Sentences.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sentences.md"
+                "file": "Conditional Sentences.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentences.md",
+                "file": "Conditional Sentences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,12 +197,12 @@
   },
   "active": "e0b7bd65722fafcd",
   "lastOpenFiles": [
-    "Conditional Sentences.md",
+    "Subordination.md",
     "Sentences.md",
+    "Conditional Sentences.md",
     "index.md",
     "Attempto Controlled English.md",
     "Construction Rules.md",
-    "Subordination.md",
     "Sentence Subordination.md",
     "Modality.md",
     "Negation As Failure.md",
