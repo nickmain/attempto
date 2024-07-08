@@ -11,7 +11,7 @@ All sentences can anaphorically refer to preceding declarative sentences, but no
 * [[Sentences]]
 	* [[Declarative Sentences]]
 		* [[Simple Sentences]]
-		* [[There Sentences|"there is/are" sentences]]
+		* [[There Sentences|"there is-are" sentences]]
 		* [[Boolean Formulas]]
 		* [[Composite Sentences]]
 	* [[Imperative Sentences]]

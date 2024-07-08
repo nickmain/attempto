@@ -1,7 +1,7 @@
 ---
 title: '"There is/are" sentences'
 aliases:
-  - '"there is/are" sentences'
+  - '"there is-are" sentences'
 ---
 It is possible to create well-formed sentences without a verb, by using the _there is/are_ construction.
 

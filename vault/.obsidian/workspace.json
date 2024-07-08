@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentences.md",
+                "file": "Declarative Sentences.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentences.md",
+                "file": "Boolean Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentences.md"
+                "file": "Boolean Formulas.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sentences.md"
+                "file": "Boolean Formulas.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentences.md",
+                "file": "Boolean Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,18 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0b7bd65722fafcd",
+  "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
-    "Declarative Sentences.md",
-    "Simple Sentences.md",
-    "Verb Phrase.md",
+    "Coordination.md",
     "Boolean Formulas.md",
+    "Declarative Sentences.md",
+    "There Sentences.md",
     "Construction Rules.md",
     "Sentences.md",
+    "Simple Sentences.md",
+    "Verb Phrase.md",
     "Imperative Sentences.md",
     "Interrogative Sentences.md",
     "Composite Sentences.md",
-    "There Sentences.md",
     "Noun Phrase.md",
     "index.md",
     "Attempto Controlled English.md",
