@@ -5,7 +5,7 @@ An ACE text is a sequence of [[Construction Rules#Declarative Sentences|declarat
 >[!example]
 >Mary enters a card into a machine. Its screen blinks or Mary waits.
 >
-A man has a car. Does he see the car? John, identify the car!
+>A man has a car. Does he see the car? John, identify the car!
 
 ## Sentences
 ### Declarative Sentences
@@ -116,11 +116,11 @@ ACE supports simple imperative sentences, briefly called commands. A command con
 >[!example]
 >John, go to your own bank!
 >
-John and Mary, clean yourselves!
+>John and Mary, clean yourselves!
 >
-Every dog, do not bark!
+>Every dog, do not bark!
 >
-John's brother, return the book to Mary!
+>John's brother, return the book to Mary!
 
 ## Phrases
 
