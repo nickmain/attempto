@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Sentences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Sentences.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Sentences.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Sentences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,18 +195,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f0b2a86d8cf8f5c",
+  "active": "e0b7bd65722fafcd",
   "lastOpenFiles": [
-    "Attempto Controlled English.md",
+    "Conditional Sentences.md",
+    "Sentences.md",
     "index.md",
+    "Attempto Controlled English.md",
     "Construction Rules.md",
     "Subordination.md",
-    "Sentences.md",
     "Sentence Subordination.md",
     "Modality.md",
     "Negation As Failure.md",
     "Logical Negation.md",
-    "Conditional Sentences.md",
     "Globally Quantified Sentences.md",
     "Locally Quantified Sentences.md",
     "Composite Sentences.md",
