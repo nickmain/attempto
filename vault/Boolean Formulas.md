@@ -8,7 +8,7 @@ Boolean formulas also count as sentences. They are built from numbers, arithmeti
 * `<`
 * `=<`
 
-As with other sentences, boolean formulas can be [[Coordination|coordinated]] by
+As with other sentences, boolean formulas can be [[Coordinated Sentences|coordinated]] by
 
 * `and`
 * `or`

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boolean Formulas.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Sentences.md",
+                "file": "Sentences.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean Formulas.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean Formulas.md"
+                "file": "index.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Boolean Formulas.md"
+                "file": "index.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Formulas.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,33 +197,36 @@
   },
   "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
-    "Coordination.md",
-    "Boolean Formulas.md",
-    "Declarative Sentences.md",
-    "There Sentences.md",
+    "Attempto Controlled English.md",
+    "index.md",
     "Construction Rules.md",
+    "Subordination.md",
     "Sentences.md",
+    "Sentence Subordination.md",
+    "Modality.md",
+    "Negation As Failure.md",
+    "Logical Negation.md",
+    "Conditional Sentences.md",
+    "Globally Quantified Sentences.md",
+    "Locally Quantified Sentences.md",
+    "Composite Sentences.md",
+    "Imperative Sentences.md",
+    "Coordinated Sentences.md",
+    "Declarative Sentences.md",
+    "Interrogative Sentences.md",
+    "Boolean Formulas.md",
+    "There Sentences.md",
     "Simple Sentences.md",
     "Verb Phrase.md",
-    "Imperative Sentences.md",
-    "Interrogative Sentences.md",
-    "Composite Sentences.md",
     "Noun Phrase.md",
-    "index.md",
-    "Attempto Controlled English.md",
     "Interpretation Rules.md",
     "ACE.md",
     "Controlled Natural Language.md",
     "tags/todo.md",
-    "tags/ontology/class.md",
-    "Foo Bar.md",
-    "The quick brown fox.md",
-    "CLIPS Rule Engine.md",
     "attachments/CLIPS.png",
     "attachments",
     "untitled folder",
     "CLIPS.png",
-    "Page with tags.md",
     "tags/ontology",
     "tags"
   ]

@@ -3,6 +3,16 @@
 	* [[There Sentences|"there is-are" sentences]]
 	* [[Boolean Formulas]]
 	* [[Composite Sentences]]
+		- [[Coordinated Sentences]]
+		- [[Locally Quantified Sentences]] 
+		- [[Globally Quantified Sentences]]
+		- [[Subordination]]
+			- [[Conditional Sentences|Conditional Sentences (_if-then_ sentences)]]
+			- [[Logical Negation]]
+			- [[Negation As Failure]]
+			- [[Modality]]
+			- [[Sentence Subordination]]
+
 * [[Imperative Sentences]]
 * [[Interrogative Sentences]]
 
