@@ -78,6 +78,7 @@
       {
         "id": "849b15bf4182fa86",
         "type": "tabs",
+        "dimension": 69.09282700421942,
         "children": [
           {
             "id": "f832825176527cb3",
@@ -146,6 +147,7 @@
       {
         "id": "d00a18f3dd656c11",
         "type": "tabs",
+        "dimension": 30.90717299578059,
         "children": [
           {
             "id": "0ccd9860f31cada2",
@@ -162,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7970f38c7e4ba2f4",
+  "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
     "index.md",
     "Attempto Controlled English.md",
