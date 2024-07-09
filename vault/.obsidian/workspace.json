@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef0736d37cb2911d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "construction/phrases/Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eed6bcf9a06bf2d3",
@@ -33,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Negation as Failure of Verb Phrases.md",
+                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modal Verb Phrases.md",
+                "file": "construction/phrases/verb/Modal Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modifying Verb Phrases.md",
+                "file": "construction/phrases/verb/Modifying Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coordinating Verb Phrases.md",
+                "file": "construction/phrases/verb/Coordinating Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Negating Verb Phrases.md",
+                "file": "construction/phrases/verb/Negating Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,17 +259,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f0b2a86d8cf8f5c",
+  "active": "2de1983d83a8833f",
   "lastOpenFiles": [
-    "construction/sentences/Interrogative Sentences.md",
-    "Negating Verb Phrases.md",
-    "Copula.md",
+    "construction/phrases/verb/Intransitive, Transitive and Ditransitive Verbs.md",
+    "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
     "construction/phrases/Verb Phrases.md",
-    "Negation as Failure of Verb Phrases.md",
-    "Intransitive, Transitive and Ditransitive Verbs.md",
-    "Modifying Verb Phrases.md",
-    "Coordinating Verb Phrases.md",
-    "Modal Verb Phrases.md",
+    "construction/sentences/Interrogative Sentences.md",
+    "construction/phrases/verb/Negating Verb Phrases.md",
+    "construction/phrases/verb/Copula.md",
+    "construction/phrases/verb/Modifying Verb Phrases.md",
+    "construction/phrases/verb/Coordinating Verb Phrases.md",
+    "construction/phrases/verb/Modal Verb Phrases.md",
     "construction/phrases/noun/Modifying Noun Phrases.md",
     "construction/phrases/noun/modifiers/Genitives.md",
     "construction/phrases/noun/modifiers/Variables in Apposition.md",
