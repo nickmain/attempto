@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Construction Rules.md",
+                "file": "Noun Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Construction Rules.md",
+                "file": "Noun Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Construction Rules.md",
+                "file": "Noun Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Construction Rules.md"
+                "file": "Noun Phrases.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Construction Rules.md"
+                "file": "Noun Phrases.md"
               }
             }
           }
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +178,18 @@
   },
   "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
-    "Interrogative Sentences.md",
-    "Construction Rules.md",
-    "Imperative Sentences.md",
+    "Proper Names.md",
     "Noun Phrases.md",
+    "Mass Common Noun Phrases.md",
+    "Plural Countable Common Noun Phrases.md",
+    "Singular Countable Common Noun Phrases.md",
+    "Construction Rules.md",
     "Verb Phrases.md",
+    "Phrases.md",
+    "Attempto Controlled English.md",
+    "index.md",
+    "Interrogative Sentences.md",
+    "Imperative Sentences.md",
     "There Sentences.md",
     "Subordination.md",
     "Strings.md",
@@ -190,8 +197,6 @@
     "Sets and Lists.md",
     "Sentences.md",
     "Sentence Subordination.md",
-    "Proper Names.md",
-    "Phrases.md",
     "Negation As Failure.md",
     "Modality.md",
     "Logical Negation.md",
@@ -199,11 +204,6 @@
     "Integer and Real Numbers.md",
     "Globally Quantified Sentences.md",
     "Declarative Sentences.md",
-    "Coordinated Sentences.md",
-    "Conditional Sentences.md",
-    "Composite Sentences.md",
-    "Boolean Formulas.md",
-    "Arithmetic Expressions.md",
     "attachments/CLIPS.png",
     "attachments",
     "untitled folder",
