@@ -10,7 +10,7 @@ All sentences can anaphorically refer to preceding declarative sentences, but no
 
 ---
 
-* [[Sentences]]
+* [[Sentence Types]]
 	* [[Declarative Sentences]]
 		* [[Simple Sentences]]
 		* [[There Sentences|"there is-are" sentences]]

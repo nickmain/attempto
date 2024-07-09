@@ -1,3 +1,8 @@
+---
+title: Sentences
+aliases:
+  - sentences
+---
 * [[Declarative Sentences]]
 	* [[Simple Sentences]]
 	* [[There Sentences|"there is-are" sentences]]
