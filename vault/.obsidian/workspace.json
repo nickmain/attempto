@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/phrases/Verb Phrases.md",
+                "file": "construction/phrases/verb/Copula.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "construction/phrases/Verb Phrases.md",
+                "file": "construction/phrases/verb/Negating Verb Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "construction/phrases/Verb Phrases.md"
+                "file": "construction/phrases/verb/Negating Verb Phrases.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "construction/phrases/Verb Phrases.md"
+                "file": "construction/phrases/verb/Negating Verb Phrases.md"
               }
             }
           }
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "construction/phrases/Verb Phrases.md",
+                "file": "construction/phrases/verb/Negating Verb Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,14 +259,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2de1983d83a8833f",
+  "active": "1f43626d8902b073",
   "lastOpenFiles": [
+    "construction/phrases/verb/Copula.md",
+    "construction/phrases/Verb Phrases.md",
     "construction/phrases/verb/Intransitive, Transitive and Ditransitive Verbs.md",
     "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
-    "construction/phrases/Verb Phrases.md",
     "construction/sentences/Interrogative Sentences.md",
     "construction/phrases/verb/Negating Verb Phrases.md",
-    "construction/phrases/verb/Copula.md",
     "construction/phrases/verb/Modifying Verb Phrases.md",
     "construction/phrases/verb/Coordinating Verb Phrases.md",
     "construction/phrases/verb/Modal Verb Phrases.md",

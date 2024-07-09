@@ -1,4 +1,4 @@
-The copula be must be followed by a noun phrase, an adjective phrase, a concatenation of prepositional phrases or a query word. 
+The copula `be` must be followed by a noun phrase, an adjective phrase, a concatenation of prepositional phrases or a query word. 
 
 For the use of the copula in interrogative sentences see [[Interrogative Sentences]].
 
