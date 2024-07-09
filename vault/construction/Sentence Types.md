@@ -1,7 +1,7 @@
 ---
 title: Sentences
 aliases:
-  - sentences
+  - Sentences
 ---
 * [[Declarative Sentences]]
 	* [[Simple Sentences]]
