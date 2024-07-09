@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/Phrases.md",
+                "file": "construction/phrases/noun/Modifying Noun Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,48 +28,12 @@
         "dimension": 49.78783592644979,
         "children": [
           {
-            "id": "e1a5b0a592d7a8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "construction/phrases/noun/modifiers/Adjectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2b0449e706b971b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "construction/phrases/noun/modifiers/Relative Clauses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7132e89a2f8ea99c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "construction/phrases/noun/modifiers/Genitives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2045b3eac655a7c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "construction/phrases/noun/modifiers/Variables in Apposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "construction/Phrases.md",
+                "file": "construction/phrases/noun/modifiers/Genitives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "construction/Phrases.md"
+                "file": "construction/phrases/noun/modifiers/Genitives.md"
               }
             }
           },
@@ -176,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "construction/Phrases.md"
+                "file": "construction/phrases/noun/modifiers/Genitives.md"
               }
             }
           }
@@ -205,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "construction/Phrases.md",
+                "file": "construction/phrases/noun/modifiers/Genitives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,15 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f0b2a86d8cf8f5c",
+  "active": "7132e89a2f8ea99c",
   "lastOpenFiles": [
+    "construction/phrases/noun/modifiers/Variables in Apposition.md",
+    "construction/phrases/noun/modifiers/Genitives.md",
+    "construction/phrases/noun/modifiers/Relative Clauses.md",
     "construction/phrases/noun/modifiers/Adjectives.md",
-    "construction/phrases/noun/Modifying Nouns and Noun Phrases.md",
+    "construction/phrases/noun/Modifying Noun Phrases.md",
     "construction/Phrases.md",
     "construction/phrases/noun/Generalized Quantifiers.md",
-    "construction/phrases/noun/modifiers/Genitives.md",
-    "construction/phrases/noun/modifiers/Variables in Apposition.md",
-    "construction/phrases/noun/modifiers/Relative Clauses.md",
     "construction/phrases/noun/modifiers",
     "construction/phrases/noun/Noun Phrase Conjunction.md",
     "construction/phrases/noun/Variables.md",

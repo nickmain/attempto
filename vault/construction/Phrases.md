@@ -15,7 +15,7 @@
 	* [[Measurement Nouns]]
 	* [[Variables]]
 	* [[Noun Phrase Conjunction]]
-	* [[Modifying Nouns and Noun Phrases]]
+	* [[Modifying Noun Phrases]]
 		* [[Adjectives]]
 		* [[Relative Clauses]]
 		* [[Variables in Apposition]]
