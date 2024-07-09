@@ -6,7 +6,7 @@
       {
         "id": "9b85474d29adb0d3",
         "type": "tabs",
-        "dimension": 50.21216407355021,
+        "dimension": 50,
         "children": [
           {
             "id": "3f0b2a86d8cf8f5c",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/phrases/noun/Modifying Noun Phrases.md",
+                "file": "construction/phrases/Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,23 +23,72 @@
         ]
       },
       {
-        "id": "13d360f0e09fe900",
+        "id": "eed6bcf9a06bf2d3",
         "type": "tabs",
-        "dimension": 49.78783592644979,
+        "dimension": 50,
         "children": [
           {
-            "id": "7132e89a2f8ea99c",
+            "id": "9c921886963084b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/phrases/noun/modifiers/Genitives.md",
+                "file": "Negation as Failure of Verb Phrases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f50b66edfcef9dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modal Verb Phrases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ab093837d9fd9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modifying Verb Phrases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c86a565a46370f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coordinating Verb Phrases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f43626d8902b073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Negating Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "construction/phrases/noun/modifiers/Genitives.md",
+                "file": "construction/phrases/Verb Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "construction/phrases/noun/modifiers/Genitives.md"
+                "file": "construction/phrases/Verb Phrases.md"
               }
             }
           },
@@ -140,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "construction/phrases/noun/modifiers/Genitives.md"
+                "file": "construction/phrases/Verb Phrases.md"
               }
             }
           }
@@ -169,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "construction/phrases/noun/modifiers/Genitives.md",
+                "file": "construction/phrases/Verb Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,13 +246,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7132e89a2f8ea99c",
+  "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
-    "construction/phrases/noun/modifiers/Variables in Apposition.md",
+    "construction/sentences/Interrogative Sentences.md",
+    "Negating Verb Phrases.md",
+    "Copula.md",
+    "construction/phrases/Verb Phrases.md",
+    "Negation as Failure of Verb Phrases.md",
+    "Intransitive, Transitive and Ditransitive Verbs.md",
+    "Modifying Verb Phrases.md",
+    "Coordinating Verb Phrases.md",
+    "Modal Verb Phrases.md",
+    "construction/phrases/noun/Modifying Noun Phrases.md",
     "construction/phrases/noun/modifiers/Genitives.md",
+    "construction/phrases/noun/modifiers/Variables in Apposition.md",
     "construction/phrases/noun/modifiers/Relative Clauses.md",
     "construction/phrases/noun/modifiers/Adjectives.md",
-    "construction/phrases/noun/Modifying Noun Phrases.md",
     "construction/Phrases.md",
     "construction/phrases/noun/Generalized Quantifiers.md",
     "construction/phrases/noun/modifiers",
@@ -217,15 +275,6 @@
     "construction/phrases/noun/Reflexive Pronouns.md",
     "construction/phrases/noun/Non-Reflexive Pronouns.md",
     "construction/phrases/noun/Sets and Lists.md",
-    "construction/phrases/noun/Strings.md",
-    "construction/phrases/noun/Arithmetic Expressions.md",
-    "construction/phrases/noun/Integer and Real Numbers.md",
-    "construction/phrases/noun/Proper Names.md",
-    "construction/Sentence Types.md",
-    "construction/sentences/declarative/Boolean Formulas.md",
-    "Construction Rules.md",
-    "construction/phrases/Verb Phrases.md",
-    "construction/phrases/Noun Phrases.md",
     "construction/sentences/declarative",
     "construction/sentences/declarative/composite/subordination",
     "construction/sentences/declarative/composite",
