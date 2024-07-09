@@ -13,38 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boolean Formulas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b46ec4660ba3834a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "13d360f0e09fe900",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e0b7bd65722fafcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subordination.md",
+                "file": "Construction Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"title\"]",
+                "query": "tag:#ontology/term",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,12 +81,29 @@
         "dimension": 69.09282700421942,
         "children": [
           {
+            "id": "f832825176527cb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Construction Rules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "3a6d32a5dfe43a70",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentences.md",
+                "file": "Construction Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentences.md"
+                "file": "Construction Rules.md"
               }
             }
           },
@@ -151,12 +137,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sentences.md"
+                "file": "Construction Rules.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d00a18f3dd656c11",
@@ -173,30 +159,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "f832825176527cb3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sentences.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,34 +176,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b46ec4660ba3834a",
+  "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
-    "Subordination.md",
-    "Sentence Subordination.md",
-    "Modality.md",
-    "Verb Phrases.md",
-    "Negation As Failure.md",
-    "Logical Negation.md",
-    "Conditional Sentences.md",
-    "Composite Sentences.md",
-    "Globally Quantified Sentences.md",
-    "Sentences.md",
-    "Phrases.md",
-    "Locally Quantified Sentences.md",
-    "Boolean Formulas.md",
-    "Coordinated Sentences.md",
-    "There Sentences.md",
-    "Noun Phrases.md",
-    "Sets and Lists.md",
-    "Strings.md",
-    "Arithmetic Expressions.md",
-    "Integer and Real Numbers.md",
-    "Proper Names.md",
     "Interrogative Sentences.md",
-    "Declarative Sentences.md",
-    "Simple Sentences.md",
     "Construction Rules.md",
     "Imperative Sentences.md",
+    "Noun Phrases.md",
+    "Verb Phrases.md",
+    "There Sentences.md",
+    "Subordination.md",
+    "Strings.md",
+    "Simple Sentences.md",
+    "Sets and Lists.md",
+    "Sentences.md",
+    "Sentence Subordination.md",
+    "Proper Names.md",
+    "Phrases.md",
+    "Negation As Failure.md",
+    "Modality.md",
+    "Logical Negation.md",
+    "Locally Quantified Sentences.md",
+    "Integer and Real Numbers.md",
+    "Globally Quantified Sentences.md",
+    "Declarative Sentences.md",
+    "Coordinated Sentences.md",
+    "Conditional Sentences.md",
+    "Composite Sentences.md",
+    "Boolean Formulas.md",
+    "Arithmetic Expressions.md",
     "attachments/CLIPS.png",
     "attachments",
     "untitled folder",
