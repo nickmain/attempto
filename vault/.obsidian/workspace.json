@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/Construction Rules.md",
+                "file": "Construction Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/Verb Phrases.md",
+                "file": "construction/phrases/Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/Sentence Types.md",
+                "file": "Construction Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "construction/sentences/declarative/composite/subordination/Subordination.md",
+                "file": "Construction Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "construction/sentences/declarative/composite/subordination/Subordination.md"
+                "file": "Construction Rules.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "construction/sentences/declarative/composite/subordination/Subordination.md"
+                "file": "Construction Rules.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "construction/sentences/declarative/composite/subordination/Subordination.md",
+                "file": "Construction Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,11 +232,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0b7bd65722fafcd",
+  "active": "2de1983d83a8833f",
   "lastOpenFiles": [
-    "construction/Sentence Types.md",
-    "construction/Construction Rules.md",
+    "construction/phrases/Verb Phrases.md",
+    "construction/phrases/noun/Sets and Lists.md",
+    "construction/phrases/noun/Proper Names.md",
+    "construction/phrases/noun/Strings.md",
+    "construction/phrases/noun/Plural Countable Common Noun Phrases.md",
+    "construction/phrases/Noun Phrases.md",
+    "construction/phrases/noun/Integer and Real Numbers.md",
     "construction/sentences/declarative/composite/subordination/Subordination.md",
+    "construction/Sentence Types.md",
+    "Construction Rules.md",
     "construction/sentences/Declarative Sentences.md",
     "construction/sentences/declarative",
     "construction/sentences/declarative/composite/subordination",
@@ -249,12 +256,10 @@
     "construction/phrases",
     "construction/sentences",
     "construction/sentences/Imperative Sentences.md",
-    "construction/Verb Phrases.md",
     "Attempto Controlled English.md",
     "construction",
-    "construction/Singular Countable Common Noun Phrases.md",
-    "construction/Plural Countable Common Noun Phrases.md",
-    "construction/Mass Common Noun Phrases.md",
+    "construction/phrases/noun/Singular Countable Common Noun Phrases.md",
+    "construction/phrases/noun/Mass Common Noun Phrases.md",
     "construction/sentences/declarative/composite/subordination/Sentence Subordination.md",
     "construction/sentences/declarative/composite/subordination/Modality.md",
     "construction/sentences/declarative/composite/subordination/Negation As Failure.md",
@@ -263,11 +268,6 @@
     "construction/Phrases.md",
     "construction/sentences/declarative/composite/Locally Quantified Sentences.md",
     "construction/sentences/declarative/Boolean Formulas.md",
-    "construction/sentences/declarative/There Sentences.md",
-    "construction/Noun Phrases.md",
-    "construction/Sets and Lists.md",
-    "construction/Strings.md",
-    "construction/Arithmetic Expressions.md",
     "attachments/CLIPS.png",
     "attachments",
     "untitled folder",
