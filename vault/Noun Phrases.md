@@ -1,0 +1,25 @@
+---
+aliases:
+  - noun phrase
+---
+* [[Singular Countable Common Noun Phrases]]
+* [[Plural Countable Common Noun Phrases]]
+* [[Mass Common Noun Phrases]]
+* [[Proper Names]]
+* [[Integer and Real Numbers]]
+* [[Arithmetic Expressions]]
+* [[Strings]]
+* [[Sets and Lists]]
+* [[Non-Reflexive Pronouns]]
+* [[Reflexive Pronouns]]
+* [[Indefinite Pronouns]]
+* [[Generalized Quantifiers]]
+* [[Nobody and Nothing But]]
+* [[Measurement Nouns]]
+* [[Variables]]
+* [[Noun Phrase Conjunction]]
+* [[Modifying Nouns and Noun Phrases]]
+	* [[Adjectives]]
+	* [[Relative Clauses]]
+	* [[Variables in Apposition]]
+	* [[Genitives]]

@@ -1,4 +1,0 @@
----
-aliases:
-  - noun phrase
----

@@ -5,8 +5,8 @@ aliases:
 ---
 It is possible to create well-formed sentences without a verb, by using the _there is/are_ construction.
 
->* _there is_ + [[Noun Phrase|noun phrase]]
->* _there are_ + [[Noun Phrase|noun phrase]]
+>* _there is_ + [[Noun Phrases|noun phrase]]
+>* _there are_ + [[Noun Phrases|noun phrase]]
 
 This construct just introduces the entities described by the noun phrase into the discourse, or if negated, denies their existence. 
 
@@ -14,12 +14,11 @@ For this reason noun phrases following _there is/are_ cannot be and cannot con
 
 * definite noun phrases
 * universally quantified noun phrases
-* proper names
-* numbers
-* arithmetic expressions
-* strings
-* sets
-* lists 
+* [[Proper Names]]
+* [[Integer and Real Numbers|numbers]]
+* [[Arithmetic Expressions]]
+* [[Strings]]
+* [[Sets and Lists]]
 
 
 >[!example]

@@ -4,7 +4,7 @@ aliases:
 ---
 Simple sentences have the structure
 
-> [[Noun Phrase|noun phrase]] + [[Verb Phrase|verb phrase]].
+> [[Noun Phrases|noun phrase]] + [[Verb Phrases|verb phrase]].
 
 
 >[!example]

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Boolean Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b46ec4660ba3834a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sentences.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "13d360f0e09fe900",
@@ -31,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditional Sentences.md",
+                "file": "Subordination.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditional Sentences.md",
+                "file": "Sentences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditional Sentences.md"
+                "file": "Sentences.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Conditional Sentences.md"
+                "file": "Sentences.md"
               }
             }
           }
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditional Sentences.md",
+                "file": "Sentences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,34 +208,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0b7bd65722fafcd",
+  "active": "b46ec4660ba3834a",
   "lastOpenFiles": [
     "Subordination.md",
-    "Sentences.md",
-    "Conditional Sentences.md",
-    "index.md",
-    "Attempto Controlled English.md",
-    "Construction Rules.md",
     "Sentence Subordination.md",
     "Modality.md",
+    "Verb Phrases.md",
     "Negation As Failure.md",
     "Logical Negation.md",
-    "Globally Quantified Sentences.md",
-    "Locally Quantified Sentences.md",
+    "Conditional Sentences.md",
     "Composite Sentences.md",
-    "Imperative Sentences.md",
-    "Coordinated Sentences.md",
-    "Declarative Sentences.md",
-    "Interrogative Sentences.md",
+    "Globally Quantified Sentences.md",
+    "Sentences.md",
+    "Phrases.md",
+    "Locally Quantified Sentences.md",
     "Boolean Formulas.md",
+    "Coordinated Sentences.md",
     "There Sentences.md",
+    "Noun Phrases.md",
+    "Sets and Lists.md",
+    "Strings.md",
+    "Arithmetic Expressions.md",
+    "Integer and Real Numbers.md",
+    "Proper Names.md",
+    "Interrogative Sentences.md",
+    "Declarative Sentences.md",
     "Simple Sentences.md",
-    "Verb Phrase.md",
-    "Noun Phrase.md",
-    "Interpretation Rules.md",
-    "ACE.md",
-    "Controlled Natural Language.md",
-    "tags/todo.md",
+    "Construction Rules.md",
+    "Imperative Sentences.md",
     "attachments/CLIPS.png",
     "attachments",
     "untitled folder",
