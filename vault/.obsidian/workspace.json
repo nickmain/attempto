@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/phrases/Verb Phrases.md",
+                "file": "construction/phrases/verb/Coordinating Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "construction/phrases/verb/Modifying Verb Phrases.md",
+                "file": "construction/phrases/verb/Coordinating Verb Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "construction/phrases/verb/Modifying Verb Phrases.md"
+                "file": "construction/phrases/verb/Coordinating Verb Phrases.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "construction/phrases/verb/Modifying Verb Phrases.md"
+                "file": "construction/phrases/verb/Coordinating Verb Phrases.md"
               }
             }
           }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "construction/phrases/verb/Modifying Verb Phrases.md",
+                "file": "construction/phrases/verb/Coordinating Verb Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ab093837d9fd9e2",
+  "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
-    "construction/phrases/verb/Coordinating Verb Phrases.md",
+    "construction/phrases/Verb Phrases.md",
     "construction/phrases/verb/Modifying Verb Phrases.md",
+    "construction/phrases/verb/Coordinating Verb Phrases.md",
     "construction/phrases/verb/Modal Verb Phrases.md",
     "construction/sentences/declarative/composite/subordination/Subordination.md",
     "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
     "construction/phrases/verb/Negating Verb Phrases.md",
-    "construction/phrases/Verb Phrases.md",
     "construction/phrases/verb/Copula.md",
     "construction/phrases/verb/Intransitive, Transitive and Ditransitive Verbs.md",
     "construction/sentences/Interrogative Sentences.md",
