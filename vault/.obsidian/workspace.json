@@ -96,33 +96,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a0cdd5035c5d155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interpretation/Scope of Subordinated Sentences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f846875ae49b642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interpretation/Coordination.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -268,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,9 +259,11 @@
   },
   "active": "6ab093837d9fd9e2",
   "lastOpenFiles": [
-    "interpretation/Adjuncts.md",
+    "interpretation/Quantifiers.md",
+    "interpretation/Scope of Subordinated Sentences.md",
     "Interpretation Rules.md",
     "interpretation/Coordination.md",
+    "interpretation/Adjuncts.md",
     "interpretation/String Interpretation.md",
     "interpretation/Two Of Constructs.md",
     "interpretation/Plurals.md",
@@ -293,8 +272,6 @@
     "interpretation/Passives.md",
     "interpretation/Anaphora Resolution.md",
     "interpretation/Lexicon.md",
-    "interpretation/Quantifiers.md",
-    "interpretation/Scope of Subordinated Sentences.md",
     "Attempto Controlled English.md",
     "Construction Rules.md",
     "construction/sentences/Interrogative Sentences.md",
