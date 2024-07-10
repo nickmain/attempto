@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b85474d29adb0d3",
+        "id": "5ac7d9e0ab4b9472",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "3f0b2a86d8cf8f5c",
+            "id": "6ab093837d9fd9e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/sentences/Interrogative Sentences.md",
+                "file": "Interpretation Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,23 +22,107 @@
         ]
       },
       {
-        "id": "eed6bcf9a06bf2d3",
+        "id": "9b85474d29adb0d3",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "6ab093837d9fd9e2",
+            "id": "49abfd8f019bbcf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
+                "file": "interpretation/String Interpretation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fca1d7cc0d0e8eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interpretation/Arithmetic Expression Interpretation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd0d43af2478a30d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interpretation/Passives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eee940f27c32cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interpretation/Anaphora Resolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "912515b5aef87187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interpretation/Lexicon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01faf58e05b01c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interpretation/Quantifiers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a0cdd5035c5d155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interpretation/Scope of Subordinated Sentences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f846875ae49b642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interpretation/Coordination.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -106,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
+                "file": "Interpretation Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md"
+                "file": "Interpretation Rules.md"
               }
             }
           },
@@ -140,7 +223,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md"
+                "file": "Interpretation Rules.md"
               }
             }
           }
@@ -169,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
+                "file": "Interpretation Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,33 +282,33 @@
   },
   "active": "6ab093837d9fd9e2",
   "lastOpenFiles": [
+    "interpretation/Adjuncts.md",
+    "Interpretation Rules.md",
+    "interpretation/Coordination.md",
+    "interpretation/String Interpretation.md",
+    "interpretation/Two Of Constructs.md",
+    "interpretation/Plurals.md",
+    "interpretation",
+    "interpretation/Arithmetic Expression Interpretation.md",
+    "interpretation/Passives.md",
+    "interpretation/Anaphora Resolution.md",
+    "interpretation/Lexicon.md",
+    "interpretation/Quantifiers.md",
+    "interpretation/Scope of Subordinated Sentences.md",
+    "Attempto Controlled English.md",
+    "Construction Rules.md",
+    "construction/sentences/Interrogative Sentences.md",
+    "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
     "construction/phrases/verb/Modifying Verb Phrases.md",
     "construction/sentences/declarative/composite/subordination/Subordination.md",
     "construction/sentences/declarative/composite/subordination/Sentence Subordination.md",
-    "construction/sentences/Interrogative Sentences.md",
     "construction/sentences/Imperative Sentences.md",
     "construction/phrases/verb/Coordinating Verb Phrases.md",
     "construction/phrases/Verb Phrases.md",
     "construction/phrases/verb/Modal Verb Phrases.md",
-    "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
     "construction/phrases/verb/Negating Verb Phrases.md",
     "construction/phrases/verb/Copula.md",
-    "construction/phrases/verb/Intransitive, Transitive and Ditransitive Verbs.md",
-    "construction/phrases/noun/Modifying Noun Phrases.md",
-    "construction/phrases/noun/modifiers/Genitives.md",
-    "construction/phrases/noun/modifiers/Variables in Apposition.md",
-    "construction/phrases/noun/modifiers/Relative Clauses.md",
-    "construction/phrases/noun/modifiers/Adjectives.md",
-    "construction/Phrases.md",
-    "construction/phrases/noun/Generalized Quantifiers.md",
     "construction/phrases/noun/modifiers",
-    "construction/phrases/noun/Noun Phrase Conjunction.md",
-    "construction/phrases/noun/Variables.md",
-    "construction/phrases/noun/Measurement Nouns.md",
-    "construction/phrases/noun/Nobody and Nothing But.md",
-    "construction/phrases/noun/Indefinite Pronouns.md",
-    "construction/phrases/noun/Plural Countable Common Noun Phrases.md",
-    "construction/phrases/noun/Mass Common Noun Phrases.md",
     "construction/sentences/declarative",
     "construction/sentences/declarative/composite/subordination",
     "construction/sentences/declarative/composite",
@@ -235,7 +318,6 @@
     "construction/sentences",
     "construction",
     "attachments/CLIPS.png",
-    "attachments",
     "CLIPS.png"
   ]
 }
