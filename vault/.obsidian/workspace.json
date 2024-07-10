@@ -14,44 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef0736d37cb2911d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "construction/phrases/verb/Copula.md",
+                "file": "construction/phrases/Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "eed6bcf9a06bf2d3",
         "type": "tabs",
         "dimension": 50,
         "children": [
-          {
-            "id": "9c921886963084b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "f50b66edfcef9dcb",
             "type": "leaf",
@@ -87,21 +62,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1f43626d8902b073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "construction/phrases/verb/Negating Verb Phrases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "construction/phrases/verb/Negating Verb Phrases.md",
+                "file": "construction/phrases/verb/Modal Verb Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "construction/phrases/verb/Negating Verb Phrases.md"
+                "file": "construction/phrases/verb/Modal Verb Phrases.md"
               }
             }
           },
@@ -202,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "construction/phrases/verb/Negating Verb Phrases.md"
+                "file": "construction/phrases/verb/Modal Verb Phrases.md"
               }
             }
           }
@@ -231,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "construction/phrases/verb/Negating Verb Phrases.md",
+                "file": "construction/phrases/verb/Modal Verb Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,16 +221,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f43626d8902b073",
+  "active": "f50b66edfcef9dcb",
   "lastOpenFiles": [
-    "construction/phrases/verb/Copula.md",
-    "construction/phrases/Verb Phrases.md",
-    "construction/phrases/verb/Intransitive, Transitive and Ditransitive Verbs.md",
     "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
-    "construction/sentences/Interrogative Sentences.md",
-    "construction/phrases/verb/Negating Verb Phrases.md",
-    "construction/phrases/verb/Modifying Verb Phrases.md",
     "construction/phrases/verb/Coordinating Verb Phrases.md",
+    "construction/phrases/verb/Negating Verb Phrases.md",
+    "construction/sentences/declarative/composite/subordination/Subordination.md",
+    "construction/phrases/Verb Phrases.md",
+    "construction/phrases/verb/Copula.md",
+    "construction/phrases/verb/Intransitive, Transitive and Ditransitive Verbs.md",
+    "construction/sentences/Interrogative Sentences.md",
+    "construction/phrases/verb/Modifying Verb Phrases.md",
     "construction/phrases/verb/Modal Verb Phrases.md",
     "construction/phrases/noun/Modifying Noun Phrases.md",
     "construction/phrases/noun/modifiers/Genitives.md",
@@ -287,7 +250,6 @@
     "construction/phrases/noun/Mass Common Noun Phrases.md",
     "construction/phrases/noun/Reflexive Pronouns.md",
     "construction/phrases/noun/Non-Reflexive Pronouns.md",
-    "construction/phrases/noun/Sets and Lists.md",
     "construction/sentences/declarative",
     "construction/sentences/declarative/composite/subordination",
     "construction/sentences/declarative/composite",
