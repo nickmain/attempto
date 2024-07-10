@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/phrases/verb/Coordinating Verb Phrases.md",
+                "file": "construction/sentences/Interrogative Sentences.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "construction/phrases/verb/Modifying Verb Phrases.md",
+                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "construction/phrases/verb/Coordinating Verb Phrases.md",
+                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "construction/phrases/verb/Coordinating Verb Phrases.md"
+                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "construction/phrases/verb/Coordinating Verb Phrases.md"
+                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md"
               }
             }
           }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "construction/phrases/verb/Coordinating Verb Phrases.md",
+                "file": "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,18 +197,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f0b2a86d8cf8f5c",
+  "active": "6ab093837d9fd9e2",
   "lastOpenFiles": [
-    "construction/phrases/Verb Phrases.md",
     "construction/phrases/verb/Modifying Verb Phrases.md",
-    "construction/phrases/verb/Coordinating Verb Phrases.md",
-    "construction/phrases/verb/Modal Verb Phrases.md",
     "construction/sentences/declarative/composite/subordination/Subordination.md",
+    "construction/sentences/declarative/composite/subordination/Sentence Subordination.md",
+    "construction/sentences/Interrogative Sentences.md",
+    "construction/sentences/Imperative Sentences.md",
+    "construction/phrases/verb/Coordinating Verb Phrases.md",
+    "construction/phrases/Verb Phrases.md",
+    "construction/phrases/verb/Modal Verb Phrases.md",
     "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
     "construction/phrases/verb/Negating Verb Phrases.md",
     "construction/phrases/verb/Copula.md",
     "construction/phrases/verb/Intransitive, Transitive and Ditransitive Verbs.md",
-    "construction/sentences/Interrogative Sentences.md",
     "construction/phrases/noun/Modifying Noun Phrases.md",
     "construction/phrases/noun/modifiers/Genitives.md",
     "construction/phrases/noun/modifiers/Variables in Apposition.md",
@@ -224,8 +226,6 @@
     "construction/phrases/noun/Indefinite Pronouns.md",
     "construction/phrases/noun/Plural Countable Common Noun Phrases.md",
     "construction/phrases/noun/Mass Common Noun Phrases.md",
-    "construction/phrases/noun/Reflexive Pronouns.md",
-    "construction/phrases/noun/Non-Reflexive Pronouns.md",
     "construction/sentences/declarative",
     "construction/sentences/declarative/composite/subordination",
     "construction/sentences/declarative/composite",
