@@ -28,36 +28,12 @@
         "dimension": 50,
         "children": [
           {
-            "id": "f50b66edfcef9dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "construction/phrases/verb/Modal Verb Phrases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6ab093837d9fd9e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "construction/phrases/verb/Modifying Verb Phrases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c86a565a46370f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "construction/phrases/verb/Coordinating Verb Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "construction/phrases/verb/Modal Verb Phrases.md",
+                "file": "construction/phrases/verb/Modifying Verb Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "construction/phrases/verb/Modal Verb Phrases.md"
+                "file": "construction/phrases/verb/Modifying Verb Phrases.md"
               }
             }
           },
@@ -164,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "construction/phrases/verb/Modal Verb Phrases.md"
+                "file": "construction/phrases/verb/Modifying Verb Phrases.md"
               }
             }
           }
@@ -193,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "construction/phrases/verb/Modal Verb Phrases.md",
+                "file": "construction/phrases/verb/Modifying Verb Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,18 +197,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f50b66edfcef9dcb",
+  "active": "6ab093837d9fd9e2",
   "lastOpenFiles": [
-    "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
     "construction/phrases/verb/Coordinating Verb Phrases.md",
-    "construction/phrases/verb/Negating Verb Phrases.md",
+    "construction/phrases/verb/Modifying Verb Phrases.md",
+    "construction/phrases/verb/Modal Verb Phrases.md",
     "construction/sentences/declarative/composite/subordination/Subordination.md",
+    "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
+    "construction/phrases/verb/Negating Verb Phrases.md",
     "construction/phrases/Verb Phrases.md",
     "construction/phrases/verb/Copula.md",
     "construction/phrases/verb/Intransitive, Transitive and Ditransitive Verbs.md",
     "construction/sentences/Interrogative Sentences.md",
-    "construction/phrases/verb/Modifying Verb Phrases.md",
-    "construction/phrases/verb/Modal Verb Phrases.md",
     "construction/phrases/noun/Modifying Noun Phrases.md",
     "construction/phrases/noun/modifiers/Genitives.md",
     "construction/phrases/noun/modifiers/Variables in Apposition.md",
