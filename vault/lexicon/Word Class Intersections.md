@@ -3,7 +3,7 @@ Generally, word class intersections are allowed; e.g. the verb "eats" can be dec
 - [[Adverbs]] are not allowed to intersect with [[Countable Nouns]] or [[Mass Nouns]].
 - [[Adverbs]] are not allowed to intersect with [[Intransitive Verbs]].
 - [[Intransitive Adjectives]] are not allowed to intersect with [[Transitive Adjectives]].
-- [[Proper Names|Proper Names]] with a definite article are not allowed to intersect with [[Countable Nouns]] or [[Mass Nouns]].
+- [[Lexicon Proper Names|Proper Names]] with a definite article are not allowed to intersect with [[Countable Nouns]] or [[Mass Nouns]].
 - [[Prepositions]] are not allowed to intersect with [[Intransitive Adjectives]].
 - [[Prepositions]] are not allowed to intersect with [[Transitive Verbs]].
 
