@@ -1,3 +1,6 @@
+---
+title: Lexicon
+---
 ## Overlap of Countable and Mass Nouns
 
 Some nouns, for instance `laundry`, have both a countable interpretation (`a laundry`) and a mass interpretation (`some laundry`). Their use with `no` and their combination with Saxon genitives and possessive pronouns can introduce a lexical ambiguity between the countable and the mass interpretation. This ambiguity is resolved in ACE by preferring the countable interpretation. The mass interpretation can be enforced by using the `of`-prepositional phrase.

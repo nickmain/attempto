@@ -1,0 +1,3 @@
+---
+title: Proper Names
+---

@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ab093837d9fd9e2",
+            "id": "4f4c6e0e7dd2f16d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interpretation Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eee940f27c32cf2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interpretation/Anaphora Resolution.md",
+                "file": "lexicon/Word Class Intersections.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5086555480957,
-    "collapsed": true
+    "width": 283.5086555480957
   },
   "right": {
     "id": "9b4b0513dfcd445d",
@@ -100,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interpretation/Anaphora Resolution.md",
+                "file": "lexicon/Word Class Intersections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interpretation/Anaphora Resolution.md"
+                "file": "lexicon/Word Class Intersections.md"
               }
             }
           },
@@ -134,7 +120,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "interpretation/Anaphora Resolution.md"
+                "file": "lexicon/Word Class Intersections.md"
               }
             }
           }
@@ -163,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interpretation/Anaphora Resolution.md",
+                "file": "lexicon/Word Class Intersections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,34 +177,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee940f27c32cf2c",
+  "active": "4f4c6e0e7dd2f16d",
   "lastOpenFiles": [
+    "lexicon/Intransitive Verbs.md",
+    "lexicon/Word Class Intersections.md",
+    "lexicon/Transitive Verbs.md",
+    "lexicon/Mass Nouns.md",
+    "lexicon/Transitive Adjectives.md",
+    "lexicon/Lexicon Proper Names.md",
+    "lexicon/Ditransitive Verbs.md",
+    "lexicon/Countable Nouns.md",
+    "Lexicon Specification.md",
+    "attachments/Pasted image 20240711114657.png",
+    "lexicon/Lexicon Measurement Nouns.md",
+    "lexicon/Word Classes.md",
+    "lexicon/Intransitive Adjectives.md",
+    "lexicon/Aliases.md",
+    "lexicon/Prepositions.md",
+    "lexicon/Adverbs.md",
+    "construction/phrases/noun/Measurement Nouns.md",
     "Interpretation Rules.md",
+    "lexicon",
+    "Attempto Controlled English.md",
+    "index.md",
+    "interpretation/Interpretation Lexicon.md",
     "interpretation/Anaphora Resolution.md",
     "interpretation/Passives.md",
     "interpretation/Arithmetic Expression Interpretation.md",
     "interpretation/String Interpretation.md",
-    "interpretation/Lexicon.md",
     "interpretation/Quantifiers.md",
-    "interpretation/Scope of Subordinated Sentences.md",
-    "interpretation/Coordination.md",
-    "interpretation/Adjuncts.md",
-    "interpretation/Two Of Constructs.md",
-    "interpretation/Plurals.md",
     "interpretation",
-    "Attempto Controlled English.md",
-    "Construction Rules.md",
-    "construction/sentences/Interrogative Sentences.md",
-    "construction/phrases/verb/Negation as Failure of Verb Phrases.md",
-    "construction/phrases/verb/Modifying Verb Phrases.md",
-    "construction/sentences/declarative/composite/subordination/Subordination.md",
-    "construction/sentences/declarative/composite/subordination/Sentence Subordination.md",
-    "construction/sentences/Imperative Sentences.md",
-    "construction/phrases/verb/Coordinating Verb Phrases.md",
-    "construction/phrases/Verb Phrases.md",
-    "construction/phrases/verb/Modal Verb Phrases.md",
-    "construction/phrases/verb/Negating Verb Phrases.md",
-    "construction/phrases/verb/Copula.md",
     "construction/phrases/noun/modifiers",
     "construction/sentences/declarative",
     "construction/sentences/declarative/composite/subordination",
@@ -228,7 +215,6 @@
     "construction/phrases/noun",
     "construction/phrases",
     "construction/sentences",
-    "construction",
     "attachments/CLIPS.png",
     "CLIPS.png"
   ]
