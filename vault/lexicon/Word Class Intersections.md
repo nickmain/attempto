@@ -13,8 +13,7 @@ The following table illustrates these restrictions. Fields containing an "X" den
 
 In addition, the following function words cannot be used as word forms in the lexicon:
 
-```
-null, zero, one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, dozen, there, and, or, not, that, than, of, if, then, such, be, provably, more, most, are, is, the, a, an, some, no, every, all, each, which, its, his, her, their, whose, it, he, she, they, him, them, itself, himself, herself, themselves, someone, somebody, something, nobody, nothing, everyone, everybody, everything, what, who, how, where, when
-```
+`null, zero, one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, dozen, there, and, or, not, that, than, of, if, then, such, be, provably, more, most, are, is, the, a, an, some, no, every, all, each, which, its, his, her, their, whose, it, he, she, they, him, them, itself, himself, herself, themselves, someone, somebody, something, nobody, nothing, everyone, everybody, everything, what, who, how, where, when`
+
 
 All other function words (e.g. "can", "at", "true") can be used.
