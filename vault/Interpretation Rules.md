@@ -24,7 +24,6 @@ Each ACE sentence has only one meaning. However, if interpreted in full English,
 	* [[Lexicon#Overlap of Transitive and Ditransitive Verbs|Overlap of Transitive and Ditransitive Verbs]]
 * [[Anaphora Resolution]]
 	* [[Anaphora Resolution#Numbers, Expressions, Lists, Sets, Strings|Numbers, Expressions, Lists, Sets, Strings]]
-	* [[Anaphora Resolution#All Other Cases|All Other Cases]]
 	* [[Anaphora Resolution#Accessibility of Antecedents|Accessibility of Antecedents]]
 	* [[Anaphora Resolution#Proper Names|Proper Names]]
 	* [[Anaphora Resolution#Non-Reflexive Pronouns|Non-Reflexive Pronouns]]
