@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax Report.md",
+                "file": "APE.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax Report.md",
+                "file": "APE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax Report.md"
+                "file": "APE.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Syntax Report.md"
+                "file": "APE.md"
               }
             }
           }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax Report.md",
+                "file": "APE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,10 +180,11 @@
   "active": "4f4c6e0e7dd2f16d",
   "lastOpenFiles": [
     "Attempto Controlled English.md",
+    "APE.md",
+    "Lexicon Specification.md",
     "Syntax Report.md",
     "Troubleshooting Guide.md",
     "lexicon/Word Class Intersections.md",
-    "Lexicon Specification.md",
     "lexicon/Aliases.md",
     "lexicon/Prepositions.md",
     "lexicon/Ditransitive Verbs.md",
@@ -206,7 +207,6 @@
     "interpretation/Anaphora Resolution.md",
     "interpretation/Passives.md",
     "interpretation/Arithmetic Expression Interpretation.md",
-    "interpretation/String Interpretation.md",
     "interpretation",
     "construction/phrases/noun/modifiers",
     "construction/sentences/declarative",
