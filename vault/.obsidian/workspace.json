@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3a0cf83fb45da5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "License.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APE.md",
+                "file": "License.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APE.md"
+                "file": "License.md"
               }
             }
           },
@@ -120,7 +133,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "APE.md"
+                "file": "License.md"
               }
             }
           }
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APE.md",
+                "file": "License.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,10 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f4c6e0e7dd2f16d",
+  "active": "b3a0cf83fb45da5a",
   "lastOpenFiles": [
-    "Attempto Controlled English.md",
     "APE.md",
+    "License.md",
+    "Attempto Controlled English.md",
     "Lexicon Specification.md",
     "Syntax Report.md",
     "Troubleshooting Guide.md",
@@ -206,7 +220,6 @@
     "interpretation/Interpretation Lexicon.md",
     "interpretation/Anaphora Resolution.md",
     "interpretation/Passives.md",
-    "interpretation/Arithmetic Expression Interpretation.md",
     "interpretation",
     "construction/phrases/noun/modifiers",
     "construction/sentences/declarative",
