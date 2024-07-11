@@ -14,20 +14,20 @@ A noun phrase antecedent other than a proper name is not accessible if it occurs
 
 * `John does not enter a card.` 🚫` It is correct.` 
 	* (use instead: `John does not enter a card that is correct.`)
-	
+
 * `John can enter a card.` 🚫 `It is correct.` 
 	* (use instead: `John can enter a card that is correct.`)
-	
+
 * `It is necessary that John enters a card.` 🚫 `It is correct. `
 	* (use instead:` It is necessary that John enters a card that is correct.`) 
-	
+
 * `Mary believes that John enters a card.` 🚫 `It is correct.` 
 	* (use instead: `Mary believes that John enters a card that is correct.`) 
-	
+
 * `Does John see a car?` 🚫 `The car is red.` 
 	* (use instead: `Does John see a car that is red?`) 
 	* (use instead: `A car is red. Does John see the car?`) 
-	
+
 * `John, identify a car!` 🚫 `The car is red. `
 	* (use instead: `John, identify the car that is red!`) 
 	* (use instead: `A car is red. John, identify the car!`)
@@ -37,6 +37,7 @@ A noun phrase antecedent other than a proper name is not accessible if it occurs
 
 * `Every customer has a card.` 🚫 `It is correct. `
 	* (use instead: `Every customer has a card that is correct.`) 
+
 * `If there is a customer then he has a card.` 🚫 `It is correct.` 
 	* (use instead: `If there is a customer then he has a card that is correct.`)
 
@@ -60,7 +61,8 @@ If the anaphor is a non-reflexive personal pronoun (`he`, `him`, ...), or a non-
 
 * `John has a card. Bob sees him and takes it.` 
 * `John and Mary wait. They are tired.` 
-* 🚫 `John sees his wife.` (use instead: `John sees his own wife.`)
+* 🚫 `John sees his wife.` 
+	* (use instead: `John sees his own wife.`)
 
 The non-reflexive personal pronoun `they` can refer to a noun phrase conjunction.
 
