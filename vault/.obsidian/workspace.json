@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interpretation/Anaphora Resolution.md",
+                "file": "Interpretation Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interpretation/Anaphora Resolution.md"
+                "file": "Interpretation Rules.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "interpretation/Anaphora Resolution.md"
+                "file": "Interpretation Rules.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interpretation/Anaphora Resolution.md",
+                "file": "Interpretation Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee940f27c32cf2c",
+  "active": "6ab093837d9fd9e2",
   "lastOpenFiles": [
-    "Interpretation Rules.md",
     "interpretation/Anaphora Resolution.md",
+    "Interpretation Rules.md",
     "interpretation/Passives.md",
     "interpretation/Arithmetic Expression Interpretation.md",
     "interpretation/String Interpretation.md",

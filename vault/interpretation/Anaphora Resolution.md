@@ -6,7 +6,7 @@ Numbers, expressions, lists, sets and strings cannot be anaphorically referred t
 
 ## Accessibility of Antecedents
 
-
+#todo
 ## Proper Names
 
 Each occurrence of a proper name like `John` denotes the same entity. Thus anaphoric reference to a proper name is possible using the proper name itself. 
