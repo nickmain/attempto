@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lexicon/Word Class Intersections.md",
+                "file": "Syntax Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lexicon/Word Class Intersections.md",
+                "file": "Syntax Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lexicon/Word Class Intersections.md"
+                "file": "Syntax Report.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "lexicon/Word Class Intersections.md"
+                "file": "Syntax Report.md"
               }
             }
           }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lexicon/Word Class Intersections.md",
+                "file": "Syntax Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +179,10 @@
   },
   "active": "4f4c6e0e7dd2f16d",
   "lastOpenFiles": [
+    "Attempto Controlled English.md",
+    "Syntax Report.md",
+    "Troubleshooting Guide.md",
+    "lexicon/Word Class Intersections.md",
     "Lexicon Specification.md",
     "lexicon/Aliases.md",
     "lexicon/Prepositions.md",
@@ -192,20 +196,17 @@
     "lexicon/Transitive Adjectives.md",
     "lexicon/Intransitive Adjectives.md",
     "lexicon/Adverbs.md",
-    "lexicon/Word Class Intersections.md",
     "lexicon/Word Classes.md",
     "attachments/Pasted image 20240711114657.png",
     "construction/phrases/noun/Measurement Nouns.md",
     "Interpretation Rules.md",
     "lexicon",
-    "Attempto Controlled English.md",
     "index.md",
     "interpretation/Interpretation Lexicon.md",
     "interpretation/Anaphora Resolution.md",
     "interpretation/Passives.md",
     "interpretation/Arithmetic Expression Interpretation.md",
     "interpretation/String Interpretation.md",
-    "interpretation/Quantifiers.md",
     "interpretation",
     "construction/phrases/noun/modifiers",
     "construction/sentences/declarative",
