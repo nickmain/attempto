@@ -14,10 +14,10 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
-        <p>© {year} David N Main. See the 
-          <a href="https://hello.nickmain.com/attempto/License" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
-          license page
-          </a>.
+        <p>© {year} David N Main.
+          <a href="/License" style="display:inline-block;">
+          &nbsp;See the License page.
+          </a>
         </p>
       </footer>
     )
