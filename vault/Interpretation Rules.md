@@ -5,7 +5,7 @@ Each ACE sentence has only one meaning. However, if interpreted in full English,
 >
 >To explain anaphoric references we use `[...]` which should not be confused with the notation for lists. 
 >
->A sentence prefixed with 🈲 is not part of ACE, but serves as counter example.
+>A sentence prefixed with 🚫 is not part of ACE, but serves as counter example.
 
 ---
 
@@ -21,7 +21,14 @@ Each ACE sentence has only one meaning. However, if interpreted in full English,
 	* [[Scope of Subordinated Sentences#Sentence Subordination|Sentence Subordination]]
 	* [[Scope of Subordinated Sentences#If-Then Sentences|If-Then Sentences]]
 * [[Quantifiers]]
+	* [[Quantifiers#The Determiner a Means Existential Quantification|The Determiner a Means Existential Quantification]]
+	* [[Quantifiers#Scopes of Local Quantifiers|Scopes of Local Quantifiers]]
+	* [[Quantifiers#Scopes of Global Quantifiers|Scopes of Global Quantifiers]]
+	* [[Quantifiers#Equivalence of Universally Quantified and Conditional Sentences|Equivalence of Universally Quantified and Conditional Sentences]]
 * [[Lexicon]]
+	* [[Lexicon#Overlap of Countable and Mass Nouns|Overlap of Countable and Mass Nouns]]
+	* [[Lexicon#Hyphenation of Phrasal and Prepositional Verbs|Hyphenation of Phrasal and Prepositional Verbs]]
+	* [[Lexicon#Overlap of Transitive and Ditransitive Verbs|Overlap of Transitive and Ditransitive Verbs]]
 * [[Anaphora Resolution]]
 * [[Passives]]
 * [[Arithmetic Expression Interpretation|Arithmetic Expressions]]

@@ -26,42 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49abfd8f019bbcf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interpretation/String Interpretation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fca1d7cc0d0e8eb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interpretation/Arithmetic Expression Interpretation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd0d43af2478a30d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interpretation/Passives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eee940f27c32cf2c",
             "type": "leaf",
             "state": {
@@ -72,33 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "912515b5aef87187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interpretation/Lexicon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01faf58e05b01c56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interpretation/Quantifiers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interpretation Rules.md",
+                "file": "interpretation/Anaphora Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interpretation Rules.md"
+                "file": "interpretation/Anaphora Resolution.md"
               }
             }
           },
@@ -199,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Interpretation Rules.md"
+                "file": "interpretation/Anaphora Resolution.md"
               }
             }
           }
@@ -228,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpretation Rules.md",
+                "file": "interpretation/Anaphora Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,21 +196,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ab093837d9fd9e2",
+  "active": "eee940f27c32cf2c",
   "lastOpenFiles": [
+    "interpretation/Passives.md",
+    "interpretation/Arithmetic Expression Interpretation.md",
+    "interpretation/String Interpretation.md",
+    "interpretation/Anaphora Resolution.md",
+    "interpretation/Lexicon.md",
+    "Interpretation Rules.md",
     "interpretation/Quantifiers.md",
     "interpretation/Scope of Subordinated Sentences.md",
-    "Interpretation Rules.md",
     "interpretation/Coordination.md",
     "interpretation/Adjuncts.md",
-    "interpretation/String Interpretation.md",
     "interpretation/Two Of Constructs.md",
     "interpretation/Plurals.md",
     "interpretation",
-    "interpretation/Arithmetic Expression Interpretation.md",
-    "interpretation/Passives.md",
-    "interpretation/Anaphora Resolution.md",
-    "interpretation/Lexicon.md",
     "Attempto Controlled English.md",
     "Construction Rules.md",
     "construction/sentences/Interrogative Sentences.md",
