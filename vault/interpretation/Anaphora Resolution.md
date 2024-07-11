@@ -6,7 +6,48 @@ Numbers, expressions, lists, sets and strings cannot be anaphorically referred t
 
 ## Accessibility of Antecedents
 
-#todo
+Proper names are always accessible for anaphoric reference.
+
+* `John does not see Mary. Mary waits for him.`
+
+A noun phrase antecedent other than a proper name is not accessible if it occurs in a negated sentence, in a sentence with a modal auxiliary, in a subordinated sentence, in an interrogative sentence, or in a command.
+
+* `John does not enter a card.` 🚫` It is correct.` 
+	* (use instead: `John does not enter a card that is correct.`)
+	
+* `John can enter a card.` 🚫 `It is correct.` 
+	* (use instead: `John can enter a card that is correct.`)
+	
+* `It is necessary that John enters a card.` 🚫 `It is correct. `
+	* (use instead:` It is necessary that John enters a card that is correct.`) 
+	
+* `Mary believes that John enters a card.` 🚫 `It is correct.` 
+	* (use instead: `Mary believes that John enters a card that is correct.`) 
+	
+* `Does John see a car?` 🚫 `The car is red.` 
+	* (use instead: `Does John see a car that is red?`) 
+	* (use instead: `A car is red. Does John see the car?`) 
+	
+* `John, identify a car!` 🚫 `The car is red. `
+	* (use instead: `John, identify the car that is red!`) 
+	* (use instead: `A car is red. John, identify the car!`)
+
+
+A noun phrase antecedent other than a proper name is not accessible if it occurs in a universally quantified or `if-then-` sentence.
+
+* `Every customer has a card.` 🚫 `It is correct. `
+	* (use instead: `Every customer has a card that is correct.`) 
+* `If there is a customer then he has a card.` 🚫 `It is correct.` 
+	* (use instead: `If there is a customer then he has a card that is correct.`)
+
+However, a noun phrase antecedent in the `if`-part of a conditional sentence is accessible in the `then`-part.
+
+* `If a customer has a card then he enters it.`
+
+A noun phrase antecedent in a disjunction is only accessible in subsequent disjuncts.
+
+* `A customer enters a card or drops it.` 🚫 `It is dirty.`
+
 ## Proper Names
 
 Each occurrence of a proper name like `John` denotes the same entity. Thus anaphoric reference to a proper name is possible using the proper name itself. 

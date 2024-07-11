@@ -18,13 +18,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "9b85474d29adb0d3",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "eee940f27c32cf2c",
             "type": "leaf",
@@ -37,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5086555480957
+    "width": 283.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "9b4b0513dfcd445d",
@@ -104,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interpretation Rules.md",
+                "file": "interpretation/Anaphora Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interpretation Rules.md"
+                "file": "interpretation/Anaphora Resolution.md"
               }
             }
           },
@@ -138,7 +134,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Interpretation Rules.md"
+                "file": "interpretation/Anaphora Resolution.md"
               }
             }
           }
@@ -167,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpretation Rules.md",
+                "file": "interpretation/Anaphora Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ab093837d9fd9e2",
+  "active": "eee940f27c32cf2c",
   "lastOpenFiles": [
-    "interpretation/Anaphora Resolution.md",
     "Interpretation Rules.md",
+    "interpretation/Anaphora Resolution.md",
     "interpretation/Passives.md",
     "interpretation/Arithmetic Expression Interpretation.md",
     "interpretation/String Interpretation.md",
