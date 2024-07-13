@@ -1,4 +1,4 @@
-General notes #todo 
+The ACE lexicon describes English adverbs, adjectives, nouns, verbs, and prepositions. It does not describe function words like pronouns or quantifiers.
 
 ---
 
