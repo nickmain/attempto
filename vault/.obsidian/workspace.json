@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "License.md",
+                "file": "Lexicon Specification.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"title\"]",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "License.md",
+                "file": "Lexicon Specification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "License.md"
+                "file": "Lexicon Specification.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "License.md"
+                "file": "Lexicon Specification.md"
               }
             }
           }
@@ -162,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "License.md",
+                "file": "Lexicon Specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,13 +193,8 @@
   },
   "active": "b3a0cf83fb45da5a",
   "lastOpenFiles": [
-    "APE.md",
-    "License.md",
-    "Attempto Controlled English.md",
-    "Lexicon Specification.md",
-    "Syntax Report.md",
-    "Troubleshooting Guide.md",
     "lexicon/Word Class Intersections.md",
+    "Lexicon Specification.md",
     "lexicon/Aliases.md",
     "lexicon/Prepositions.md",
     "lexicon/Ditransitive Verbs.md",
@@ -211,6 +207,11 @@
     "lexicon/Transitive Adjectives.md",
     "lexicon/Intransitive Adjectives.md",
     "lexicon/Adverbs.md",
+    "License.md",
+    "APE.md",
+    "Attempto Controlled English.md",
+    "Syntax Report.md",
+    "Troubleshooting Guide.md",
     "lexicon/Word Classes.md",
     "attachments/Pasted image 20240711114657.png",
     "construction/phrases/noun/Measurement Nouns.md",
