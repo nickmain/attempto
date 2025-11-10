@@ -16,7 +16,9 @@
                 "file": "APE.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "APE"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Lexicon Specification.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lexicon Specification"
             }
           }
         ]
@@ -51,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -99,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lexicon Specification.md",
+                "file": "APE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from APE"
             }
           },
           {
@@ -111,8 +123,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lexicon Specification.md"
-              }
+                "file": "APE.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of APE"
             }
           },
           {
@@ -124,7 +138,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -133,8 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lexicon Specification.md"
-              }
+                "file": "APE.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for APE"
             }
           }
         ],
@@ -153,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lexicon Specification.md",
+                "file": "APE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +190,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for APE"
             }
           }
         ],
@@ -182,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
