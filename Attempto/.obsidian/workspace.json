@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACE In a Nutshell.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACE In a Nutshell"
+              "title": "index"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.50312423706055,
-    "collapsed": true
+    "width": 275.50312423706055
   },
   "right": {
     "id": "9b4b0513dfcd445d",
@@ -110,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACE In a Nutshell.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ACE In a Nutshell"
+              "title": "Outline of index"
             }
           },
           {
@@ -139,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ACE In a Nutshell.md"
+                "file": "index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ACE In a Nutshell"
+              "title": "File properties for index"
             }
           },
           {
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ACE In a Nutshell.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ACE In a Nutshell"
+              "title": "Graph of index"
             }
           }
         ],
@@ -209,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACE In a Nutshell.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ACE In a Nutshell"
+              "title": "Backlinks for index"
             }
           }
         ],
@@ -227,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,10 +242,10 @@
   "active": "4f4c6e0e7dd2f16d",
   "lastOpenFiles": [
     "Attempto Controlled English.md",
+    "index.md",
     "ACE In a Nutshell.md",
     "attachments/Pasted image 20240711114657.png",
     "Construction Rules.md",
-    "index.md",
     "Lexicon/Ditransitive Verbs.md",
     "Interpretation/Two Of Constructs.md",
     "Lexicon/Word Classes.md",

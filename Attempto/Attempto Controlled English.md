@@ -3,10 +3,6 @@ aliases:
   - ACE
   - Attempto
 ---
-[[ACE In a Nutshell]]
-
----
-
 Attempto consists of
 
 * [[Construction Rules]] that define the permissible sentence structures.
