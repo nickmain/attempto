@@ -10,3 +10,5 @@ From the [home page of the Attempto project](http://attempto.ifi.uzh.ch/site/):
 This site aims to be documentation for various implementations of [[Attempto Controlled English|Attempto]] currently being developed by the author.
 
 Start here: [[Attempto Controlled English|Attempto]]
+
+- [[License]]
