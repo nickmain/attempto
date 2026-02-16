@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interpretation Rules.md",
+                "file": "Interpretation/Two Of Constructs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interpretation Rules"
+              "title": "Two Of Constructs"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexicon Specification.md",
+                "file": "Lexicon/Ditransitive Verbs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lexicon Specification"
+              "title": "Ditransitive Verbs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,10 +150,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Interpretation Rules.md"
+                "file": "Lexicon/Ditransitive Verbs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Interpretation Rules"
+              "title": "File properties for Ditransitive Verbs"
             }
           },
           {
@@ -161,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interpretation Rules.md",
+                "file": "Lexicon/Ditransitive Verbs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Interpretation Rules"
+              "title": "Graph of Ditransitive Verbs"
             }
           }
         ],
@@ -219,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpretation Rules.md",
+                "file": "Lexicon/Ditransitive Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interpretation Rules"
+              "title": "Backlinks for Ditransitive Verbs"
             }
           }
         ],
@@ -250,42 +251,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f4c6e0e7dd2f16d",
+  "active": "b3a0cf83fb45da5a",
   "lastOpenFiles": [
-    "License.md",
-    "Syntax Report.md",
-    "index.md",
-    "Attempto Controlled English.md",
-    "APE.md",
+    "Lexicon/Word Classes.md",
     "Lexicon Specification.md",
-    "Troubleshooting Guide.md",
-    "lexicon/Word Class Intersections.md",
-    "Lexicon Specification.md",
-    "lexicon/Aliases.md",
-    "lexicon/Prepositions.md",
-    "lexicon/Ditransitive Verbs.md",
-    "lexicon/Transitive Verbs.md",
-    "lexicon/Intransitive Verbs.md",
-    "lexicon/Lexicon Proper Names.md",
-    "lexicon/Lexicon Measurement Nouns.md",
-    "lexicon/Mass Nouns.md",
-    "lexicon/Countable Nouns.md",
-    "lexicon/Transitive Adjectives.md",
-    "lexicon/Intransitive Adjectives.md",
-    "lexicon/Adverbs.md",
-    "Troubleshooting Guide.md",
-    "lexicon/Word Classes.md",
+    "Interpretation/Two Of Constructs.md",
+    "Interpretation Rules.md",
+    "Lexicon/Word Class Intersections.md",
+    "Lexicon/Transitive Verbs.md",
+    "Lexicon/Transitive Adjectives.md",
+    "Lexicon/Prepositions.md",
+    "Lexicon/Mass Nouns.md",
+    "Lexicon/Lexicon Proper Names.md",
+    "Lexicon/Lexicon Measurement Nouns.md",
+    "Lexicon/Intransitive Verbs.md",
+    "Lexicon/Intransitive Adjectives.md",
+    "Lexicon/Ditransitive Verbs.md",
+    "Lexicon/Countable Nouns.md",
+    "Lexicon/Aliases.md",
+    "Lexicon/Adverbs.md",
+    "Lexicon",
+    "Interpretation/String Interpretation.md",
+    "Interpretation/Scope of Subordinated Sentences.md",
+    "Interpretation/Quantifiers.md",
+    "Interpretation/Plurals.md",
+    "Interpretation/Passives.md",
+    "Interpretation/Interpretation Lexicon.md",
+    "Interpretation/Coordination.md",
+    "Interpretation/Arithmetic Expression Interpretation.md",
+    "Interpretation/Anaphora Resolution.md",
+    "Interpretation",
+    "Construction/sentences/declarative/composite/subordination",
+    "Construction/sentences/declarative/composite",
+    "Construction/phrases/noun/modifiers",
+    "Construction/sentences/declarative",
+    "Construction/phrases/verb",
+    "Construction/phrases/noun",
+    "Construction/sentences",
+    "Construction/phrases",
     "attachments/Pasted image 20240711114657.png",
-    "lexicon",
-    "interpretation",
-    "construction/phrases/noun/modifiers",
-    "construction/sentences/declarative",
-    "construction/sentences/declarative/composite/subordination",
-    "construction/sentences/declarative/composite",
-    "construction/phrases/verb",
-    "construction/phrases/noun",
-    "construction/phrases",
-    "construction/sentences",
     "attachments/CLIPS.png",
     "CLIPS.png"
   ]
